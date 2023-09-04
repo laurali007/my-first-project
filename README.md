@@ -1,3 +1,3 @@
 # my-first-project
 
-Thus is a description of my first project 
+This is a description of my first project 
